@@ -1,0 +1,28 @@
+Value,21
+depth,18
+parent(one of the initial 4 moves ),AC
+stock data,A=>,0,B=>,21,C=>,19,B=>,6
+AB,AC,AB,AC,AB,AC,AB,AC,AB,AC,AB,AC,AB,AC,AB,AC,AB,AC,AB,BRANCH END
+
+
+Value,7
+depth,18
+parent(one of the initial 4 moves ),AC
+stock data,A=>,0,B=>,20,C=>,19,B=>,7
+AB,AC,AB,AC,AB,AC,AB,AC,AB,AC,AB,AC,AB,AC,AB,AC,AB,AC,AD,BRANCH END
+
+
+Value,1
+depth,62
+parent(one of the initial 4 moves ),AC
+stock data,A=>,29,B=>,32,C=>,0,B=>,1
+AB,AC,AB,AC,AB,AC,AB,AC,AB,AC,AB,AC,AB,AC,AB,AC,AB,AC,CB,CA,CB,CA,CB,CA,CB,CA,CB,CA,CB,CA,CD,CA,CB,CA,CD,CA,CB,CA,CD,CA,CB,CA,CB,CA,CB,CA,CB,CA,CB,CA,CD,CA,CD,CA,CD,CA,CB,CA,CB,CA,CB,CA,CD,BRANCH END
+
+
+Value,1
+depth,62
+parent(one of the initial 4 moves ),AC
+stock data,A=>,27,B=>,34,C=>,0,B=>,1
+AB,AC,AB,AC,AB,AC,AB,AC,AB,AC,AB,AC,AB,AC,AB,AC,AB,AC,CB,CA,CB,CA,CB,CA,CB,CA,CB,CA,CB,CA,CD,CA,CB,CA,CD,CA,CB,CA,CD,CA,CB,CA,CB,CA,CB,CA,CB,CA,CB,CA,CD,CA,CD,CA,CD,CB,CA,CB,CA,CB,CA,CB,CD,BRANCH END
+
+
