@@ -1,3 +1,3 @@
 # ai_minimax
 
-###### Run `MINIMAX.pl` in your browser -- > bit.ly/ge-git-minimax
+###### Run in your browser -- > [MINIMAX.PL]( bit.ly/ge-git-minimax "runnable.com" )
